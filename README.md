@@ -93,7 +93,6 @@ By completing this reflection, you will gain a clearer understanding of your car
             5. Time-bound: Achieve transition within 3-5 years through strategic career development.
     - Describe how these align with your interests and skills.
             Securing an Internship in Software Development:
-
                 Alignment with Interests: This goal aligns with my interest in software development, as evidenced by my proficiency in programming languages like Java, C++, Python, and                  the ones I am yet to be certified with after this boot camp. By securing an internship in this field, I will have the opportunity to further explore my passion for                       coding and software engineering.
                 Alignment with Skills: My existing skills in programming languages and computer science knowledge make me well-suited for a software development internship. This goal                    leverages my technical capabilities and provides a platform for me to apply my theoretical understanding in a practical setting, enhancing my skills and gaining                          valuable hands-on experience.
 
